@@ -3,7 +3,7 @@
 <h1 align="center">🌸 Hi, I'm <strong>Nirjala</strong> 👋</h1>
 
 <p align="center">
-  <em>Aspiring Front-End Developer • MERN Stack • Women in Tech</em>
+  <em>Aspiring Front-End Developer  • Women in Tech</em>
 </p>
 
 <p align="center">
@@ -23,12 +23,11 @@
 
 ## 🌸 About Me
 
-- 🎓 Information Technology student @ Westcliff University (Graduating Dec 2025)  
+- 🎓 Information Technology student 
 - 💻 Aspiring **Front-End Developer** working with React, JavaScript & Tailwind CSS  
-- 🌐 Building full-stack projects with the **MERN stack** and REST APIs  
-- 📊 Exploring **Data Science + Machine Learning** on the side  
+- 🌐 Building full-stack projects with the **MERN stack** and REST APIs    
 - 💜 Actively involved in **Women in Tech** communities  
-- 🌾 I also make **straw art** in my free time ✨
+
 
 ---
 
@@ -58,74 +57,12 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🍎 Koseli Mart – Nepali Grocery Store (Full Stack)
-**React, JavaScript, Node.js, Express.js, MongoDB, OAuth, API Integration, Payment Integration**  
-A full-stack e-commerce application for a Nepali grocery store with product browsing, cart, checkout, authentication, and payment flow.  
-👉 _Repo link:_ `[https://github.com/NirjalaP/FinalProject.git]`
-
----
-
-### 🌦️ Weather App
-**React, JavaScript, OpenWeather API, Vercel**  
-Real-time weather app that fetches current weather data based on city search or location.   
-👉 _Live site:_ `https://weather-app-jrdm.vercel.app/` 
-👉 _Repo link:_ `https://github.com/NirjalaP/Weather-App.git
-`
-
----
-
-### 🎬 Movie Ticket Booking Website
-**React, Node.js, Express.js, MongoDB, Clerk Auth, Inngest**  
-Movie ticket booking platform with authentication and automated user sync using serverless workflows.  
-👉 _Repo link:_ `https://github.com/NirjalaP/Ticket-Booking-App.git`
-
----
-
 ### 💼 Personal Portfolio Website
-**React, Tailwind CSS, EmailJS, Vercel**  
-Responsive portfolio showcasing projects, skills, and a working contact form.  
 👉 _Live site:_ `https://portfolio-website1-p2m1.vercel.app/`  
-👉 _Repo link:_ `https://github.com/NirjalaP/Portfolio-website1.git`
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=NirjalaP&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NirjalaP&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-    height="160"
-  />
-</p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirjalaP&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-    height="160"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=NirjalaP&theme=tokyonight&no-frame=true&margin-w=10&row=1" 
-    alt="GitHub Trophies" 
-  />
-</p>
-
----
 
 ## 💌 Let’s Connect
 
