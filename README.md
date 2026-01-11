@@ -1,5 +1,7 @@
 
 <!-- Profile Header -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NirjalaP&exclude_days=Mon" alt="GitHub Streak" /></a>
+
 <h1 align="center">🌸 Hi, I'm <strong>Nirjala</strong> 👋</h1>
 
 <p align="center">
@@ -61,8 +63,6 @@
 👉 _Live site:_ `https://portfolio-website1-p2m1.vercel.app/`  
 
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NirjalaP&exclude_days=Mon" alt="GitHub Streak" /></a>
 
 ## 💌 Let’s Connect
 
