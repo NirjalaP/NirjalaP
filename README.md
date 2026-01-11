@@ -1,6 +1,6 @@
 
 <!-- Profile Header -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NirjalaP&exclude_days=Mon" alt="GitHub Streak" /></a>
+
 
 <h1 align="center">🌸 Hi, I'm <strong>Nirjala</strong> 👋</h1>
 
@@ -78,4 +78,5 @@
 <p align="center">
   🌸 <em>Thanks for stopping by! Feel free to explore my repositories and say hi.</em> 🌸
 </p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NirjalaP&exclude_days=Mon" alt="GitHub Streak" /></a>
 
