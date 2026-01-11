@@ -1,4 +1,4 @@
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NirjalaP&exclude_days=Mon" alt="GitHub Streak" /></a>
+
 <!-- Profile Header -->
 <h1 align="center">🌸 Hi, I'm <strong>Nirjala</strong> 👋</h1>
 
@@ -62,7 +62,7 @@
 
 
 
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NirjalaP&exclude_days=Mon" alt="GitHub Streak" /></a>
 
 ## 💌 Let’s Connect
 
