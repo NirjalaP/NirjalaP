@@ -22,16 +22,14 @@
 
 ## 🌸 About Me
 
-### 📊 Data Analytics
+
 - 🎓 Information Technology student focused on **data analytics and data-driven problem solving**
 - 🧮 Experienced in **SQL, Excel, and data visualization**, including cleaning, transforming, and analyzing real-world datasets
 - 📈 Build analytical projects and dashboards to uncover trends and support informed decision-making
 
-### 💻 Web & Frontend (Separate Skill Set)
 - 🌐 Independent experience in **frontend development** using **React and JavaScript**
 - 🎨 Build UI-focused web applications emphasizing usability, structure, and responsive design
 
-### 💜 Leadership & Community
 - 🤝 Actively involved in **Women in Tech** communities and leadership programs
 
 ---
@@ -82,7 +80,6 @@
 
 ## 🌐 Portfolio
 👉 **Live Portfolio:** https://portfolio-website1-p2m1.vercel.app/  
-_Showcases data analytics projects and selected web work._
 
 ---
 
