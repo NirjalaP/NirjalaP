@@ -63,10 +63,10 @@ This project focused on cleaning and preparing raw Nashville housing data for an
 <td width="65%">
 
 <b>COVID-19 Data Exploration (SQL)</b><br>
-This project analyzed global COVID-19 data including cases, deaths, and vaccination progress. The analysis involved aggregating country-level data, calculating death rates, infection rates, and rolling vaccination metrics to uncover global and regional trends.<br>
-**Skills**: data analysis, aggregations, joins, window functions, trend analysis.<br>
-**Technology**: SQL Server, T-SQL.<br>
-**Results**: The analysis revealed trends in infection and vaccination rates across countries and highlighted patterns in pandemic progression over time.
+This project analyzed global COVID-19 data including cases, deaths, and vaccination progress. The analysis involved aggregating country-level data, calculating death rates, infection rates, and rolling vaccination metrics to uncover global and regional trends. The processed data was then visualized through an interactive Tableau dashboard.<br>
+**Skills**: data analysis, aggregations, joins, window functions, trend analysis, data visualization<br>
+**Technology**: SQL Server, T-SQL, Tableau.<br>
+**Results**: The analysis revealed trends in infection and vaccination rates across countries and highlighted patterns in pandemic progression over time through interactive visualizations.
 
 </td>
 </tr>
