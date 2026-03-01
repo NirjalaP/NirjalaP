@@ -28,7 +28,6 @@ Detail-oriented Data Analyst with a strong foundation in data cleaning, transfor
 <img src="https://img.shields.io/badge/Microsoft_Excel-E6D6FF?style=for-the-badge&logo=microsoft-excel&logoColor=217346" />
 <img src="https://img.shields.io/badge/Tableau-E6D6FF?style=for-the-badge&logo=tableau&logoColor=1F77B4" />
 
-<br><br>
 <b>Tools</b><br>
 <img src="https://img.shields.io/badge/Git-E6D6FF?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-E6D6FF?style=for-the-badge&logo=github&logoColor=181717" />
