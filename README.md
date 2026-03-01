@@ -44,7 +44,7 @@ Detail-oriented Data Analyst with a strong foundation in data cleaning, transfor
 <td width="65%">
 
 <b>Nashville Housing Data Cleaning (SQL)</b><br>
-This project focused on cleaning and preparing raw Nashville housing data for analysis. The dataset included property sales, addresses, sale prices, and ownership details. The workflow involved standardizing date formats, handling missing property addresses, splitting address fields, removing duplicates, and transforming the dataset into a clean, analysis-ready format.<br><br>
+This project focused on cleaning and preparing raw Nashville housing data for analysis. The dataset included property sales, addresses, sale prices, and ownership details. The workflow involved standardizing date formats, handling missing property addresses, splitting address fields, removing duplicates, and transforming the dataset into a clean, analysis-ready format.<br>
 **Skills** : data cleaning, data transformation, joins, CTEs, duplicate removal, data standardization.<br>
 **Technology**: SQL Server, T-SQL.<br>
 **Results**:The final dataset was fully cleaned and structured, making it suitable for downstream analysis and visualization.
@@ -63,7 +63,7 @@ This project focused on cleaning and preparing raw Nashville housing data for an
 <td width="65%">
 
 <b>COVID-19 Data Exploration (SQL)</b><br>
-This project analyzed global COVID-19 data including cases, deaths, and vaccination progress. The analysis involved aggregating country-level data, calculating death rates, infection rates, and rolling vaccination metrics to uncover global and regional trends.<br><br>
+This project analyzed global COVID-19 data including cases, deaths, and vaccination progress. The analysis involved aggregating country-level data, calculating death rates, infection rates, and rolling vaccination metrics to uncover global and regional trends.<br>
 **Skills**: data analysis, aggregations, joins, window functions, trend analysis.<br>
 **Technology**: SQL Server, T-SQL.<br>
 **Results**: The analysis revealed trends in infection and vaccination rates across countries and highlighted patterns in pandemic progression over time.
@@ -102,10 +102,10 @@ This project focused on building an interactive Tableau dashboard to explore air
 <td width="65%">
 
 <b>Retail Sales Analytics Dashboard (Excel)</b><br>
-This project developed an automated Excel analytics solution for tracking sales performance and KPIs. The workflow included data cleaning, building calculations, creating PivotTables, and designing an interactive dashboard with a one-click refresh process.<br><br>
-Skills: data cleaning, KPI reporting, dashboard design, Excel automation.<br>
-Technology:Microsoft Excel<br>
-Results: The solution streamlined reporting and enabled stakeholders to quickly monitor revenue, profitability, and overall sales performance.
+This project developed an automated Excel analytics solution for tracking sales performance and KPIs. The workflow included data cleaning, building calculations, creating PivotTables, and designing an interactive dashboard with a one-click refresh process.<br>
+**Skills**: data cleaning, KPI reporting, dashboard design, Excel automation.<br>
+**Technology**:Microsoft Excel<br>
+**Results**: The solution streamlined reporting and enabled stakeholders to quickly monitor revenue, profitability, and overall sales performance.
 
 </td>
 </tr>
