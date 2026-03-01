@@ -83,6 +83,7 @@ This project analyzed global COVID-19 data including cases, deaths, and vaccinat
 
 <b>Aircraft Safety Analysis (Tableau)</b><br>
 This project focused on building an interactive Tableau dashboard to explore aircraft incident and safety data. The dashboard allows users to analyze trends by aircraft type, location, and time using dynamic filters and visual exploration.
+<br>
 **Skills**: data visualization, dashboard design, data storytelling, exploratory analysis.<br>
 **Technology**: Tableau<br>
 **Results**:The dashboard enables quick identification of safety trends and supports interactive exploration of aviation incident data.
