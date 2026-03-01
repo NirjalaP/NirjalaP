@@ -58,7 +58,7 @@ This project focused on cleaning and preparing raw Nashville housing data for an
 <table width="100%">
 <tr>
 <td width="35%">
-<img src="assets/covid.png" width="100%">
+<img src="assets/images.jpeg" width="100%">
 </td>
 <td width="65%">
 
@@ -77,7 +77,7 @@ This project analyzed global COVID-19 data including cases, deaths, and vaccinat
 <table width="100%">
 <tr>
 <td width="35%">
-<img src="assets/aircraft.png" width="100%">
+<img src="assets/aircraft.jpg" width="100%">
 </td>
 <td width="65%">
 
@@ -97,7 +97,7 @@ This project focused on building an interactive Tableau dashboard to explore air
 <table width="100%">
 <tr>
 <td width="35%">
-<img src="assets/retail.png" width="100%">
+<img src="assets/retail.webp" width="100%">
 </td>
 <td width="65%">
 
