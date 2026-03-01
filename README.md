@@ -64,9 +64,9 @@ This project focused on cleaning and preparing raw Nashville housing data for an
 
 <b>COVID-19 Data Exploration (SQL)</b><br>
 This project analyzed global COVID-19 data including cases, deaths, and vaccination progress. The analysis involved aggregating country-level data, calculating death rates, infection rates, and rolling vaccination metrics to uncover global and regional trends.<br><br>
-Skills: data analysis, aggregations, joins, window functions, trend analysis.<br>
-Technology: SQL Server, T-SQL.<br>
-Results: The analysis revealed trends in infection and vaccination rates across countries and highlighted patterns in pandemic progression over time.
+**Skills**: data analysis, aggregations, joins, window functions, trend analysis.<br>
+**Technology**: SQL Server, T-SQL.<br>
+**Results**: The analysis revealed trends in infection and vaccination rates across countries and highlighted patterns in pandemic progression over time.
 
 </td>
 </tr>
@@ -82,10 +82,10 @@ Results: The analysis revealed trends in infection and vaccination rates across 
 <td width="65%">
 
 <b>Aircraft Safety Analysis (Tableau)</b><br>
-This project focused on building an interactive Tableau dashboard to explore aircraft incident and safety data. The dashboard allows users to analyze trends by aircraft type, location, and time using dynamic filters and visual exploration.<br><br>
-Skills: data visualization, dashboard design, data storytelling, exploratory analysis.<br>
-Technology: Tableau<br>
-Results:The dashboard enables quick identification of safety trends and supports interactive exploration of aviation incident data.
+This project focused on building an interactive Tableau dashboard to explore aircraft incident and safety data. The dashboard allows users to analyze trends by aircraft type, location, and time using dynamic filters and visual exploration.
+**Skills**: data visualization, dashboard design, data storytelling, exploratory analysis.<br>
+**Technology**: Tableau<br>
+**Results**:The dashboard enables quick identification of safety trends and supports interactive exploration of aviation incident data.
 
 </td>
 </tr>
