@@ -45,9 +45,9 @@ Detail-oriented Data Analyst with a strong foundation in data cleaning, transfor
 
 <b>Nashville Housing Data Cleaning (SQL)</b><br>
 This project focused on cleaning and preparing raw Nashville housing data for analysis. The dataset included property sales, addresses, sale prices, and ownership details. The workflow involved standardizing date formats, handling missing property addresses, splitting address fields, removing duplicates, and transforming the dataset into a clean, analysis-ready format.<br><br>
-Skills : data cleaning, data transformation, joins, CTEs, duplicate removal, data standardization.<br>
-Technology: SQL Server, T-SQL.<br>
-Results:The final dataset was fully cleaned and structured, making it suitable for downstream analysis and visualization.
+**Skills** : data cleaning, data transformation, joins, CTEs, duplicate removal, data standardization.<br>
+**Technology**: SQL Server, T-SQL.<br>
+**Results**:The final dataset was fully cleaned and structured, making it suitable for downstream analysis and visualization.
 
 </td>
 </tr>
