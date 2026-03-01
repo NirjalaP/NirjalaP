@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 
-<h1 align="center">🌸 Hi, I'm <strong>Nirjala</strong> </h1>
+<h1 align="center"> Hi, I'm <strong>Nirjala</strong> </h1>
 
 <p align="center">
   <em> Data Analyst • Data Analytics & Visualization • Women in Tech</em>
@@ -21,10 +21,7 @@
 ---
 
 ##  About Me
-
-
 - Detail-oriented Data Analyst with a strong foundation in data cleaning, transformation, and visualization. Passionate about turning raw data into meaningful insights that support strategic decision-making. Skilled in writing efficient SQL queries, building analytical models in Excel, and designing clear, interactive dashboards in Tableau. Focused on accuracy, clarity, and delivering data-driven solutions that create real business value.
-
 ---
 
 ##  Skills & Tools
@@ -54,27 +51,14 @@
 ##  Nashville Housing Data Cleaning (SQL)
 
 ###  Description
-This project focused on cleaning and preparing raw Nashville housing data for analysis.  
-The dataset included property sales, addresses, sale prices, and ownership details.
+This project focused on cleaning and preparing raw Nashville housing data for analysis. The dataset included property sales, addresses, sale prices, and ownership details. The workflow involved standardizing date formats, handling missing property addresses, splitting address fields, removing duplicates, and transforming the dataset into a clean, analysis-ready format. 
 
-The workflow involved:
-- Standardizing date formats  
-- Handling missing property addresses  
-- Splitting address fields  
-- Removing duplicates  
-- Transforming the dataset into a clean, analysis-ready format  
+###  Skills : 
+data cleaning, data transformation, joins, CTEs, duplicate removal, data standardization.
+ 
 
-###  Skills
-- Data cleaning  
-- Data transformation  
-- Joins  
-- CTEs  
-- Duplicate removal  
-- Data standardization  
-
-###  Technology
-- SQL Server  
-- T-SQL  
+###  Technology:
+SQL Server, T-SQL.
 
 ###  Results
 The final dataset was fully cleaned and structured, making it suitable for downstream analysis and visualization.
@@ -84,25 +68,11 @@ The final dataset was fully cleaned and structured, making it suitable for downs
 ##  COVID-19 Data Exploration (SQL)
 
 ###  Description
-This project analyzed global COVID-19 data including cases, deaths, and vaccination progress.
-
-The analysis involved:
-- Aggregating country-level data  
-- Calculating death rates  
-- Calculating infection rates  
-- Building rolling vaccination metrics  
-- Identifying global and regional trends  
-
-###  Skills
-- Data analysis  
-- Aggregations  
-- Joins  
-- Window functions  
-- Trend analysis  
-
-###  Technology
-- SQL Server  
-- T-SQL  
+This project analyzed global COVID-19 data including cases, deaths, and vaccination progress. The analysis involved aggregating country-level data, calculating death rates, infection rates, and rolling vaccination metrics to uncover global and regional trends.
+###  Skills:
+data analysis, aggregations, joins, window functions, trend analysis.
+###  Technology: 
+SQL Server, T-SQL.
 
 ###  Results
 The analysis revealed trends in infection and vaccination rates across countries and highlighted patterns in pandemic progression over time.
@@ -112,22 +82,12 @@ The analysis revealed trends in infection and vaccination rates across countries
 ##  Aircraft Safety Analysis (Tableau)
 
 ### Description
-This project focused on building an interactive Tableau dashboard to explore aircraft incident and safety data.
+This project focused on building an interactive Tableau dashboard to explore aircraft incident and safety data. The dashboard allows users to analyze trends by aircraft type, location, and time using dynamic filters and visual exploration.
+###  Skills:
+data visualization, dashboard design, data storytelling, exploratory analysis.
 
-The dashboard allows users to:
-- Analyze trends by aircraft type  
-- Explore data by location  
-- Examine patterns over time  
-- Use dynamic filters for interactive exploration  
-
-###  Skills
-- Data visualization  
-- Dashboard design  
-- Data storytelling  
-- Exploratory analysis  
-
-###  Technology
-- Tableau  
+###  Technology:
+Tableau  
 
 ###  Results
 The dashboard enables quick identification of safety trends and supports interactive exploration of aviation incident data.
@@ -137,23 +97,13 @@ The dashboard enables quick identification of safety trends and supports interac
 ##  Retail Sales Analytics Dashboard (Excel)
 
 ###  Description
-This project developed an automated Excel analytics solution for tracking sales performance and KPIs.
+This project developed an automated Excel analytics solution for tracking sales performance and KPIs. The workflow included data cleaning, building calculations, creating PivotTables, and designing an interactive dashboard with a one-click refresh process. 
 
-The workflow included:
-- Data cleaning  
-- Building calculations  
-- Creating PivotTables  
-- Designing an interactive dashboard  
-- Implementing one-click refresh automation  
+###  Skills:
+data cleaning, KPI reporting, dashboard design, Excel automation.
 
-###  Skills
-- Data cleaning  
-- KPI reporting  
-- Dashboard design  
-- Excel automation  
-
-###  Technology
-- Microsoft Excel  
+###  Technology:
+Microsoft Excel  
 
 ###  Results
 The solution streamlined reporting and enabled stakeholders to quickly monitor revenue, profitability, and overall sales performance.
@@ -174,7 +124,7 @@ The solution streamlined reporting and enabled stakeholders to quickly monitor r
 </p>
 
 <p align="center">
-   <em>Thanks for stopping by! Feel free to explore my repositories and reach out.</em> 🌸
+   <em>Thanks for stopping by! Feel free to explore my repositories and reach out.</em> 
 </p>
 
 ---
