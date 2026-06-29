@@ -204,8 +204,6 @@ Developed an automated Excel dashboard for monitoring retail sales performance a
 </td>
 </tr>
 </table>
----
-
 
 
 # Currently Learning
