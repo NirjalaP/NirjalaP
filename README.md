@@ -65,16 +65,16 @@ I am passionate about continuous learning and enjoy building projects that mirro
 
 ### Core Skills
 
-* Data Cleaning                                             * Data Validation
-* Exploratory Data Analysis (EDA)                           * Feature Engineering
-* Data Transformation                                       * ETL
-* SQL Query Development                                     * Database Management
-* Dashboard Development                                     * Data Visualization
-* KPI Reporting                                             * Business Intelligence
-* Business Analytics                                        * Customer Behavior Analysis
-* Data Storytelling                                         * Interactive Dashboard Design
+- Data Cleaning                               • Data Validation
+- Exploratory Data Analysis (EDA)             • Feature Engineering
+- Data Transformation                         • ETL
+- SQL Query Development                       • Database Management
+- Dashboard Development                       • Data Visualization
+- KPI Reporting                               • Business Intelligence
+- Business Analytics                          • Customer Behavior Analysis
+- Data Storytelling                           • Interactive Dashboard Design
 
----
+
 
 # Featured Projects
 
