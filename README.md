@@ -93,188 +93,117 @@ I am passionate about continuous learning and enjoy building projects that mirro
 Retail Customer Insights (Python • PostgreSQL • SQL • Tableau)
 </a>
 </b>
-
 <br><br>
-
 This end-to-end analytics project explores customer purchasing behavior using Python, PostgreSQL, SQL, and Tableau. The workflow includes data cleaning, database creation, SQL-based business analysis, and development of an interactive Tableau dashboard that enables users to analyze revenue trends across demographics, product categories, payment methods, seasons, and subscription status.
-
 <br><br>
-
 <b>Skills:</b> Data Cleaning, Exploratory Data Analysis (EDA), SQL Query Development, Dashboard Development, Business Intelligence, Data Visualization.
-
 <br>
-
 <b>Technology:</b> Python, Pandas, PostgreSQL, SQL, Tableau.
-
 <br>
-
 <b>Results:</b> Developed an interactive executive dashboard featuring KPI cards, dynamic filters, clickable visualizations, and business insights that enable users to explore customer purchasing behavior and revenue patterns across multiple dimensions.
-
 </td>
 </tr>
 </table>
-
 <br>
-
 <table width="100%">
 <tr>
 <td width="35%">
-
 <a href="https://github.com/NirjalaP/British-Airways-Customer-Review-Analytics">
 <img src="assets/aircraft.jpg" width="100%">
 </a>
-
 </td>
-
 <td width="65%">
-
 <b>
 <a href="https://github.com/NirjalaP/British-Airways-Customer-Review-Analytics">
 British Airways Customer Review Analytics (Tableau)
 </a>
 </b>
-
 <br><br>
-
 Designed an interactive Tableau dashboard to analyze customer reviews across aircraft types, traveler segments, countries, and review periods. The dashboard incorporates dynamic parameters, filters, and maps to support exploratory analysis and uncover customer satisfaction trends.
-
 <br><br>
-
 <b>Skills:</b> Dashboard Development, Data Visualization, Interactive Filtering, Data Storytelling, Exploratory Data Analysis.
-
 <br>
-
 <b>Technology:</b> Tableau.
-
 <br>
-
 <b>Results:</b> Built a fully interactive dashboard that enables users to explore customer reviews from multiple perspectives and quickly identify performance trends across aircraft, traveler types, and geographic regions.
-
 </td>
 </tr>
 </table>
-
 <br>
-
 <table width="100%">
 <tr>
 <td width="35%">
-
 <a href="https://github.com/NirjalaP/Nashville_Housing_Data_Cleaning">
 <img src="assets/nashville.png" width="100%">
 </a>
-
 </td>
-
 <td width="65%">
-
 <b>
 <a href="https://github.com/NirjalaP/Nashville_Housing_Data_Cleaning">
 Nashville Housing Data Cleaning (SQL)
 </a>
 </b>
-
 <br><br>
-
 Cleaned and transformed a Nashville housing dataset using SQL Server to improve data quality and prepare it for downstream analysis. The workflow included standardizing formats, handling missing values, splitting address fields, removing duplicates, and restructuring the dataset into an analysis-ready format.
-
 <br><br>
-
 <b>Skills:</b> Data Cleaning, Data Transformation, SQL Query Development, CTEs, Joins, Duplicate Removal.
-
 <br>
-
 <b>Technology:</b> SQL Server, T-SQL.
-
 <br>
-
 <b>Results:</b> Produced a clean, structured dataset suitable for business reporting, visualization, and analytical workflows.
-
 </td>
 </tr>
 </table>
-
 <br>
-
 <table width="100%">
 <tr>
 <td width="35%">
-
 <a href="https://github.com/NirjalaP/CovidCOVID-19-Data-Exploration">
 <img src="assets/images.jpeg" width="100%">
 </a>
-
 </td>
-
 <td width="65%">
-
 <b>
 <a href="https://github.com/NirjalaP/CovidCOVID-19-Data-Exploration">
 COVID-19 Data Exploration (SQL & Tableau)
 </a>
 </b>
-
 <br><br>
-
 Performed exploratory analysis on global COVID-19 data using SQL to evaluate infection rates, mortality trends, and vaccination progress. Window functions, joins, and aggregations were used to generate insights that were presented through an interactive Tableau dashboard.
-
 <br><br>
-
 <b>Skills:</b> Exploratory Data Analysis, SQL Window Functions, Joins, Aggregations, Data Visualization.
-
 <br>
-
 <b>Technology:</b> SQL Server, T-SQL, Tableau.
-
 <br>
-
 <b>Results:</b> Identified global pandemic trends and produced interactive visualizations that support comparison across countries and time periods.
-
 </td>
 </tr>
 </table>
-
 <br>
-
 <table width="100%">
 <tr>
 <td width="35%">
-
 <a href="https://github.com/NirjalaP/Retail-Sales-Analytics-in-Excel">
 <img src="assets/retail.webp" width="100%">
 </a>
-
 </td>
-
 <td width="65%">
-
 <b>
 <a href="https://github.com/NirjalaP/Retail-Sales-Analytics-in-Excel">
 Retail Sales Analytics Dashboard (Excel)
 </a>
 </b>
-
 <br><br>
-
 Developed an automated Excel dashboard for monitoring retail sales performance and key business metrics. The project involved data cleaning, PivotTables, KPI calculations, and interactive reporting to streamline recurring business analysis.
-
 <br><br>
-
 <b>Skills:</b> Data Cleaning, Dashboard Development, KPI Reporting, Business Analysis.
-
 <br>
-
 <b>Technology:</b> Microsoft Excel.
-
 <br>
-
 <b>Results:</b> Built an interactive dashboard that enables stakeholders to monitor revenue, profitability, and overall sales performance through automated reporting.
-
 </td>
 </tr>
 </table>
-
-
 ---
 
 
