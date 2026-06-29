@@ -53,44 +53,26 @@ I am passionate about continuous learning and enjoy building projects that mirro
 
 ### Data Analytics & Business Intelligence
 
-<img src="https://img.shields.io/badge/Tableau-E6D6FF?style=for-the-badge&logo=tableau&logoColor=E97627"/>
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-E6D6FF?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/>
-
-<img src="https://img.shields.io/badge/Pandas-E6D6FF?style=for-the-badge&logo=pandas&logoColor=150458"/>
-
-<img src="https://img.shields.io/badge/Jupyter-E6D6FF?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
+<img src="https://img.shields.io/badge/Tableau-E6D6FF?style=for-the-badge&logo=tableau&logoColor=E97627"/> <img src="https://img.shields.io/badge/Microsoft_Excel-E6D6FF?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/> <img src="https://img.shields.io/badge/Pandas-E6D6FF?style=for-the-badge&logo=pandas&logoColor=150458"/> <img src="https://img.shields.io/badge/Jupyter-E6D6FF?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
 
 ---
 
 ### Development Tools
 
-<img src="https://img.shields.io/badge/Git-E6D6FF?style=for-the-badge&logo=git&logoColor=F05032"/>
-
-<img src="https://img.shields.io/badge/GitHub-E6D6FF?style=for-the-badge&logo=github&logoColor=181717"/>
-
-<img src="https://img.shields.io/badge/VS_Code-E6D6FF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Git-E6D6FF?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-E6D6FF?style=for-the-badge&logo=github&logoColor=181717"/> <img src="https://img.shields.io/badge/VS_Code-E6D6FF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 
 ---
 
 ### Core Skills
 
-* Data Cleaning
-* Data Validation
-* Exploratory Data Analysis (EDA)
-* Feature Engineering
-* Data Transformation
-* ETL
-* SQL Query Development
-* Database Management
-* Dashboard Development
-* Data Visualization
-* KPI Reporting
-* Business Intelligence
-* Business Analytics
-* Customer Behavior Analysis
-* Data Storytelling
-* Interactive Dashboard Design
+* Data Cleaning                                             * Data Validation
+* Exploratory Data Analysis (EDA)                           * Feature Engineering
+* Data Transformation                                       * ETL
+* SQL Query Development                                     * Database Management
+* Dashboard Development                                     * Data Visualization
+* KPI Reporting                                             * Business Intelligence
+* Business Analytics                                        * Customer Behavior Analysis
+* Data Storytelling                                         * Interactive Dashboard Design
 
 ---
 
@@ -126,17 +108,7 @@ Built an automated Excel dashboard with PivotTables, KPIs, and one-click reporti
 
 ---
 
-# GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NirjalaP&show_icons=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirjalaP&layout=compact"/>
-
-</p>
-
----
 
 # Currently Learning
 
