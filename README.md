@@ -47,15 +47,7 @@ I am passionate about continuous learning and enjoy building projects that mirro
 
 ### Programming & Databases
 
-<img src="https://img.shields.io/badge/Python-E6D6FF?style=for-the-badge&logo=python&logoColor=3776AB"/>
-
-<img src="https://img.shields.io/badge/SQL-E6D6FF?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-E6D6FF?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-
-<img src="https://img.shields.io/badge/SQL_Server-E6D6FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
-
-<img src="https://img.shields.io/badge/MySQL-E6D6FF?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Python-E6D6FF?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/SQL-E6D6FF?style=for-the-badge&logo=postgresql&logoColor=336791"/> <img src="https://img.shields.io/badge/PostgreSQL-E6D6FF?style=for-the-badge&logo=postgresql&logoColor=336791"/> <img src="https://img.shields.io/badge/SQL_Server-E6D6FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/> <img src="https://img.shields.io/badge/MySQL-E6D6FF?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 
 ---
 
