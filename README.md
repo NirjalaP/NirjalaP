@@ -80,7 +80,7 @@ I am passionate about continuous learning and enjoy building projects that mirro
 <tr>
 <td width="35%">
 
-<a href="https://github.com/NirjalaP/Retail-Customer-Insights">
+<a href="https://github.com/NirjalaP/retail-customer-behavior-analysis">
 <img src="assets/retail1.jpg" width="100%">
 </a>
 
