@@ -89,7 +89,7 @@ I am passionate about continuous learning and enjoy building projects that mirro
 <td width="65%">
 
 <b>
-<a href="https://github.com/NirjalaP/Retail-Customer-Insights">
+<a href="https://github.com/NirjalaP/retail-customer-behavior-analysis">
 Retail Customer Insights (Python • PostgreSQL • SQL • Tableau)
 </a>
 </b>
