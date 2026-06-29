@@ -158,31 +158,6 @@ Cleaned and transformed a Nashville housing dataset using SQL Server to improve 
 <table width="100%">
 <tr>
 <td width="35%">
-<a href="https://github.com/NirjalaP/CovidCOVID-19-Data-Exploration">
-<img src="assets/images.jpeg" width="100%">
-</a>
-</td>
-<td width="65%">
-<b>
-<a href="https://github.com/NirjalaP/CovidCOVID-19-Data-Exploration">
-COVID-19 Data Exploration (SQL & Tableau)
-</a>
-</b>
-<br><br>
-Performed exploratory analysis on global COVID-19 data using SQL to evaluate infection rates, mortality trends, and vaccination progress. Window functions, joins, and aggregations were used to generate insights that were presented through an interactive Tableau dashboard.
-<br><br>
-<b>Skills:</b> Exploratory Data Analysis, SQL Window Functions, Joins, Aggregations, Data Visualization.
-<br>
-<b>Technology:</b> SQL Server, T-SQL, Tableau.
-<br>
-<b>Results:</b> Identified global pandemic trends and produced interactive visualizations that support comparison across countries and time periods.
-</td>
-</tr>
-</table>
-<br>
-<table width="100%">
-<tr>
-<td width="35%">
 <a href="https://github.com/NirjalaP/Retail-Sales-Analytics-in-Excel">
 <img src="assets/retail.webp" width="100%">
 </a>
